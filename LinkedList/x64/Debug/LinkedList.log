@@ -1,0 +1,3 @@
+﻿  LinkedList.cpp
+C:\Users\grego\Documents\trimestre6\estructura-de-datos\LinkedList\LinkedList.cpp(215,26): warning C4553: '==': result of expression not used; did you intend '='?
+  LinkedList.vcxproj -> C:\Users\grego\Documents\trimestre6\estructura-de-datos\LinkedList\x64\Debug\LinkedList.exe

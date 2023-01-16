@@ -1,0 +1,4 @@
+﻿  MasterMind.cpp
+C:\Users\grego\Documents\trimestre6\estructura-de-datos\MasterMind\MasterMind.cpp(103,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\grego\Documents\trimestre6\estructura-de-datos\MasterMind\MasterMind.cpp(102,9): warning C4101: 'attemps': unreferenced local variable
+  MasterMind.vcxproj -> C:\Users\grego\Documents\trimestre6\estructura-de-datos\MasterMind\x64\Debug\MasterMind.exe

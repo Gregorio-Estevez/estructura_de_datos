@@ -1,0 +1,3 @@
+﻿  TvsR.cpp
+C:\Users\grego\Documents\trimestre6\estructura-de-datos\TvsR\TvsR.cpp(40,14): warning C4101: 'validation': unreferenced local variable
+  TvsR.vcxproj -> C:\Users\grego\Documents\trimestre6\estructura-de-datos\TvsR\x64\Debug\TvsR.exe

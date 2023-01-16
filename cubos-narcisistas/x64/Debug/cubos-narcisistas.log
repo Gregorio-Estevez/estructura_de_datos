@@ -1,0 +1,3 @@
+﻿  cubos-narcisistas.cpp
+C:\Users\grego\Documents\trimestre6\estructura-de-datos\cubos-narcisistas\cubos-narcisistas.cpp(30,20): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  cubos-narcisistas.vcxproj -> C:\Users\grego\Documents\trimestre6\estructura-de-datos\cubos-narcisistas\x64\Debug\cubos-narcisistas.exe

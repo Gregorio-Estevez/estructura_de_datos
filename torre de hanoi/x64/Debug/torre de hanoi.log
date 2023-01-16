@@ -1,0 +1,3 @@
+﻿  torre de hanoi.cpp
+C:\Users\grego\Documents\trimestre6\estructura-de-datos\torre de hanoi\torre de hanoi.cpp(73,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  torre de hanoi.vcxproj -> C:\Users\grego\Documents\trimestre6\estructura-de-datos\torre de hanoi\x64\Debug\torre de hanoi.exe
